@@ -8,6 +8,6 @@ public class PersonController {
 
 	@RequestMapping("/getName")
 	public String getName() {
-		return "AWS deployment by Jenkins";
+		return "AWS deployment by Jenkins ";
 	}
 }
